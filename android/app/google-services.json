@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924872515030",
+    "firebase_url": "https://talkr-demo-default-rtdb.firebaseio.com",
+    "project_id": "talkr-demo",
+    "storage_bucket": "talkr-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924872515030:android:efe80818675418dfd89877",
+        "android_client_info": {
+          "package_name": "com.example.talkr_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924872515030-dek95a56bp21ppge9l36f6ioc3dsjvqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDynt8hD2tdehsPdrRRVXMMYz8haLA5tbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924872515030-dek95a56bp21ppge9l36f6ioc3dsjvqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
